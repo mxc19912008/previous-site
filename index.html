@@ -337,7 +337,7 @@
 			var form_name = $("#form_name").val(); 
 			var form_email = $("#form_email").val(); 
 			var form_message = $("#form_message").val(); 
-			$.post("php/mailer.html", { name : form_name , email : form_email , message : form_message }, function(results){
+			$.post("php/mailer.php", { name : form_name , email : form_email , message : form_message }, function(results){
 				alert(results);
 			}); 
 		} 
@@ -441,7 +441,6 @@
 		$("html, body").animate({ scrollTop: 0 }, 600);
 		return false;
 	});
-		
 	</script>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
