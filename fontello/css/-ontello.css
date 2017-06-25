@@ -1,9 +1,9 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 @font-face {
   font-family: '-ontello';
   src: url("../font/-ontello.eot");
-  src: url("../font/-ontello.eot@#iefix") format('embedded-opentype'), url("../font/-ontello.woff") format('woff'), url("../font/-ontello.ttf") format('truetype'), url("../font/-ontello.svg#-ontello") format('svg');
+  src: url("../font/-ontello.eot?#iefix") format('embedded-opentype'), url("../font/-ontello.woff") format('woff'), url("../font/-ontello.ttf") format('truetype'), url("../font/-ontello.svg#-ontello") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -37,7 +37,7 @@
 .icon-quote:before { content: '\275e'; } /* '❞' */
 .icon-up-bold:before { content: '\e4af'; } /* '' */
 .icon-address:before { content: '\e723'; } /* '' */
-.icon-location:before { content: '\e724'; } /* '' */
+.icon-location:before { content: '\e724'; } /* '\E724' */
 .icon-map:before { content: '\e727'; } /* '' */
 .icon-up-circled:before { content: '\e75b'; } /* '' */
 .icon-up-open-big:before { content: '\e767'; } /* '' */

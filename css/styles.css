@@ -7,7 +7,6 @@
 /*
 
 1.  GLOBAL
-
 2.  BODY
 3.  NAVIGATION
 4.  HEADER
@@ -111,7 +110,7 @@ body {
 	font-family: 'Droid Sans', serif;
 	z-index: 5000;
 	/* Color */
-	background: url("../img/container-bg.png");
+	background: #fff url("../img/container-bg.png");
 	-webkit-box-shadow: 0px 2px 4px rgba(3, 3, 3, 0.2);
 	-moz-box-shadow:    0px 2px 4px rgba(3, 3, 3, 0.2);
 	box-shadow:         0px 2px 4px rgba(3, 3, 3, 0.2);
@@ -168,7 +167,7 @@ body {
 }
 .site_header h1 {
 	/* Text */
-	font: 6em 'Arvo', serif; /* 60px/10 */
+	font: 4.5em 'Arvo', serif; /* 60px/10 */
 	line-height: 0.66666666em; /* 40px/60px */
 	font-weight: bold;
 	color: #464646;
@@ -178,6 +177,13 @@ body {
 	padding-left: 5px;
 	z-index: 2;
 }
+
+#summary{
+	width: 74%;
+	margin-left: 13%;
+	margin-right: 13%;
+}
+
 #logoline {
 	text-align: center;
 }
@@ -206,7 +212,7 @@ body {
 	margin: -4px 0 25px 0;
 }
 .site_header h3 {
-	font: 2.5em 'Droid Sans', sans-serif; /* 25px/10 */
+	font: 1.6em 'Droid Sans', sans-serif; /* 25px/10 */
 	line-height: 1.2em; /* 30px/25px */
 	font-weight: 400;
 	color: #a4a5a6;
@@ -321,17 +327,20 @@ body {
 }
 .skill_level {
 	margin-top: 10px;
-	padding: 0 12px 0 7px;
+	padding: 1 12px 0 7px;
 }
 .skill_level h4{
 	/* Text */
-	font: 1.4em 'Droid Sans', sans-serif; /* 14px/10 */
+	font: 1.8em 'Droid Sans', sans-serif; /* 14px/10 */
 	line-height: 1.071428em; /* 15px/14px */
 	color: #464646;
-	text-align: center;
 	font-weight: bold;
 	/* Positioning & Display */
-	margin-top: -10px;
+	/*margin-top: -10px; */
+}
+
+.skill_level p {
+	margin-top: -2px;
 }
 
 /*-----------------------------*\
@@ -342,7 +351,7 @@ body {
 	margin-top: 60px;
 }
 .experience p, .education p {
-	color: #c0c0c0;
+	color: #a6abae;
 }
 
 .period  {
@@ -395,6 +404,10 @@ body {
 	margin-top: 60px;
 }
 
+.bigspacing img {
+	width: 87%;
+}
+
 /*-----------------------------*\
 	$PORTFOLIO
 \*-----------------------------*/
@@ -413,10 +426,11 @@ body {
 
 /* gallery */
 .galleryItem {
-	width: 27%;
+	width: 90%;
 	margin:  2% 3% 5px 3%;
 	float: left;
 	-webkit-transition: color 0.5s ease;
+	
 }
 
 .galleryItem h3 {
@@ -430,7 +444,7 @@ body {
 	font: 1.4em 'Droid Sans', sans-serif; /* 14px/10 */
 	line-height: 1em; /* 14px/14px */
 	color: #a6abae;
-	margin-top: -8px;
+	margin-top: -3px;
 	-webkit-transition: color 0.5s ease;
 }
 .galleryItem img {
@@ -439,6 +453,7 @@ body {
 	-webkit-box-shadow: 0px 0px 5px rgba(3, 3, 3, 0.3);
 	-moz-box-shadow:    0px 0px 5px rgba(3, 3, 3, 0.3);
 	box-shadow:         0px 0px 5px rgba(3, 3, 3, 0.3);
+	
 }
 
 /*-----------------------------*\
@@ -543,6 +558,34 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 	color: red;
 	margin-left: -3px;
 	margin-top: -5px;
+}
+
+.comment_form textarea {
+	height: 100px;
+}
+
+.comment_form input[type=submit], .comment_form input[type=submit]:hover{
+	/* Text */
+	font: 1.4em 'Droid Sans', sans-serif; /* 14px/10 */
+	font-weight: normal;
+	letter-spacing: -0.5px;
+	color: white;
+	text-decoration: none;
+	margin-right: -20px;
+	/* Positioning & Display */
+	padding: 5px 15px;
+	display: inline-block;
+	position: relative;
+	margin-right: -20px;
+	/* Elemants */
+	width: 190px;
+	height: 36px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	cursor: pointer;
+	/* Color */
+	background-color: #0093d0;
 }
 
 /*-----------------------------*\
