@@ -18,7 +18,7 @@ author:  Will(Xiaochun) Ma # change following line to your infomation.
   github_username: mxc19912008  # Leave blank if you don't have now
   linkedin_id: xiaochunma # Leave blank if you don't have now
   facebook_username: willxiaochunma  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
   email: xm2203@columbia.edu  # Leave blank if you don't have now
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -28,13 +28,7 @@ author:  Will(Xiaochun) Ma # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Experienced in Big data Analytics, User profile Analytics, Nature Language processing, Machine learning algorithms and data cleaning, visualization, manipulation, modeling and prediction pipeline and interactive visualization. 
-  Also proficient in web application development, especially using Django framework, React.js, bootstrap for website development and Android app development.
-  Interested in using data analytics and statistical modeling/testing to find insights and improve business performance, in the same time productionize these using software development skills. 
-
-Strong technical skills
-Specialties: SQL (sql server/MySQL/Hive/PostgreSQL), Java, Python, R, JavaScript, HTML, CSS, XML, JSON, SPSS, Tableau, MATLAB and LaTex.
- # Describe yourself.
+  desc: Experienced in Big data Analytics, User profile Analytics, Nature Language processing, Machine learning algorithms and data cleaning, visualization, manipulation, modeling and prediction pipeline and interactive visualization. Also proficient in web application development, especially using Django framework, React.js, bootstrap for website development and Android app development.Interested in using data analytics and statistical modeling/testing to find insights and improve business performance, in the same time productionize these using software development skills. 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
