@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
+title: Will as a full-stack Machine Learning Engineer, Data Scientist.
 description: Will's personal website and blog,use Jekyll and github pages.
 keywords: Will Ma,Xiaochun Ma,blog,Data scientist,Machine learning
 # baseurl:  /home # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -10,7 +10,7 @@ url: https://mxc19912008.github.io/  # url should be 'http://<github_username>.g
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  Will(Xiaochun) Ma # change following line to your infomation.
+author: # change following line to your infomation.
   name: Will(Xiaochun) Ma  # Be used at blog posts' author.
   first_name: Will(Xiaochun)  # Be used at index page about me section.
   last_name: Ma  # Be used at index page about me section.
@@ -28,7 +28,7 @@ author:  Will(Xiaochun) Ma # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Experienced in Big data Analytics, User profile Analytics, Nature Language processing, Machine learning algorithms and data cleaning, visualization, manipulation, modeling and prediction pipeline and interactive visualization. Also proficient in web application development, especially using Django framework, React.js, bootstrap for website development and Android app development.Interested in using data analytics and statistical modeling/testing to find insights and improve business performance, in the same time productionize these using software development skills. 
+  desc: A full-stack Machine Learning Engineer, Data Scientist who loves jogging and traveling.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
