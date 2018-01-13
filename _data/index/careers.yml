@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Grapen
-    i18n: Grapen
+    i18n: “图形”人工智能公司
   desc:
     detail: I worked as a NLP and Machine learning Full stack engineer. Building news summarization and recommendation system.
     i18n: 我作为一名自然语言处理及机器学习全栈工程师，在公司的职责是建立新闻总结及推荐系统。
