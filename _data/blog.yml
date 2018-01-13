@@ -6,8 +6,8 @@
 - name: Data Analysis
   href: /Data_Analysis/
 
-- name: Predictive Modeling
-  href: /Predictive_Modeling/
+- name: Modeling
+  href: /Modeling/
 
 - name: Algorithms(ML, DL)
   href: /Algorithms/
