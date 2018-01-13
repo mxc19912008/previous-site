@@ -2,42 +2,42 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Grapen
-    i18n: “图形”人工智能公司
+    i18n: Grapen
   desc:
     detail: I worked as a NLP and Machine learning Full stack engineer. Building news summarization and recommendation system.
-    i18n: 我作为一名自然语言处理及机器学习全栈工程师，在公司的职责是建立新闻总结及推荐系统。
+    i18n: Grapen_desc
   date:
     detail: Jan. 2018
-    i18n: 2018年1月开始
+    i18n: Grapen_date
   job:
     detail: NLP and Machine learning Full stack engineer intern
-    i18n: 自然语言处理及机器学习全栈工程师实习生
+    i18n: Grapen_job
   icon: fa-plus-square
 
 - name:
     detail: Columbia law school
-    i18n: 哥伦比亚大学法学院
+    i18n: law
   desc:
     detail: I worked at Columbia law school as a Research Assistant. I Parsed and analyzed sentence structure and sentence meaning of law statement for further win-lose predictive modeling and built database and query interface of online scrapped court judgments.
-    i18n: 作为研究助理，负责对法律判决书进行分词，语义分析及段落结构分析，建模预测法律案件是否会打赢及建立 No-SQL 数据库对法律文本文件进行管理，建立查询界面方便各类查询.
+    i18n: law_desc
   date:
     detail: Sep. 2017 to Jan. 2018
-    i18n: 2017年9月到2018年1月
+    i18n: law_date
   job:
     detail: NLP full stack research assistant
-    i18n: 自然语言处理全栈研发助理
+    i18n: law_job
   icon: fa-plus-square
   
 - name:
     detail: Didi Chuxing(Chinese Uber)
-    i18n: 哥伦比亚大学法学院
+    i18n: didi
   desc:
     detail: I worked at Columbia law school as a Bigdata Analyst Intern. I Mined and modeled upon data of driver's safety features, evaluated the Dangerous Driving SDK, profiled Cities in China on safety aspects and classified accidents and complaints based on main reasons.
-    i18n: 作为研究助理，负责对法律判决书进行分词，语义分析及段落结构分析，建模预测法律案件是否会打赢及建立 No-SQL 数据库对法律文本文件进行管理，建立查询界面方便各类查询.
+    i18n: didi_desc
   date:
     detail: Jan. 2017 to May. 2017
-    i18n: 2017年9月到2018年1月
+    i18n: didi_date
   job:
     detail: Bigdata Analyst Intern
-    i18n: 自然语言处理全栈研发助理
+    i18n: didi_job
   icon: fa-plus-square
