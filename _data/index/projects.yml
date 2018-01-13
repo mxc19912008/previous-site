@@ -6,7 +6,7 @@
   gh_user: mxc19912008
   repo: Key-Algorithms
   img: /static/assets/img/landing/algorithms.png
-  desc: In this project, I crawled and summerized the key algorithms taught by Princeton professor Robert Sedgewick. Helped many learners.
+  desc: In this project, I crawled and summerized the key algorithms.
 
 - name: Key algorithms Android app
   i18n: Android
