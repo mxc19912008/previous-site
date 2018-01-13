@@ -1,17 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Grapen
-    i18n: Grapen
+    detail: Graphen
+    i18n: Graphen
   desc:
     detail: I worked as a NLP and Machine learning Full stack engineer. Building news summarization and recommendation system.
-    i18n: Grapen_desc
+    i18n: Graphen_desc
   date:
     detail: Jan. 2018
-    i18n: Grapen_date
+    i18n: Graphen_date
   job:
     detail: NLP and Machine learning Full stack engineer intern
-    i18n: Grapen_job
+    i18n: Graphen_job
   icon: fa-plus-square
 
 - name:
