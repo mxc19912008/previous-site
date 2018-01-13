@@ -1,29 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Grapen
+    i18n: Grapen
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I worked as a NLP and Machine learning Full stack engineer. Building news summarization and recommendation system.
+    i18n: 我作为一名自然语言处理及机器学习全栈工程师，在公司的职责是建立新闻总结及推荐系统。
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Jan. 2018
+    i18n: 2018年1月开始
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: NLP and Machine learning Full stack engineer intern
+    i18n: 自然语言处理及机器学习全栈工程师实习生
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Columbia law school
+    i18n: 哥伦比亚大学法学院
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Columbia law school as a Research Assistant. 
+    I Parsed and analyzed sentence structure and sentence meaning of law statement for further win-lose predictive modeling and built database and query interface of online scrapped court judgments.
+    i18n: 作为研究助理，负责对法律判决书进行分词，语义分析及段落结构分析，建模预测法律案件是否会打赢及建立 No-SQL 数据库对法律文本文件进行管理，建立查询界面方便各类查询.
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Sep. 2017 to Jan. 2018
+    i18n: 2017年9月到2018年1月
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: NLP full stack research assistant
+    i18n: 自然语言处理全栈研发助理
   icon: fa-plus-square
