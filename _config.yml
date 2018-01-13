@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Will as a full-stack Machine Learning Engineer, Data Scientist.
+title: Learn and share.
 description: Will's personal website and blog,use Jekyll and github pages.
 keywords: Will Ma,Xiaochun Ma,blog,Data scientist,Machine learning
 # baseurl:  /home # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: A full-stack Machine Learning Engineer, Data Scientist who loves jogging and traveling.
+  desc: A full-stack Machine Learning Engineer and Data Scientist who loves jogging and traveling.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
