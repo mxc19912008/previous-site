@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Key algorithms
+  i18n: algorithms
+  gh_user: mxc19912008
+  repo: Key-Algorithms
+  img: /static/assets/img/landing/algorithms.png
+  desc: In this project, I crawled and summerized the key algorithms taught by Princeton professor Robert Sedgewick. Helped many learners.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Key algorithms Android app
+  i18n: Android
+  gh_user: mxc19912008
+  repo: Algorithms-Android-app
+  img: /static/assets/img/landing/android.png
+  desc: This project is child project of key algorithms that could help learners review algorithms.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Movie recommendation system
+  i18n: Movie
+  url: http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1
+  img: /static/assets/img/landing/imdb.png
+  desc: This project was designed to recommend movies to users based on the ratings they gave about ten movies, then find the most similar user in IMDB, return his/her favorite movies.
