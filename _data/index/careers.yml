@@ -18,8 +18,7 @@
     detail: Columbia law school
     i18n: 哥伦比亚大学法学院
   desc:
-    detail: I worked at Columbia law school as a Research Assistant. 
-    I Parsed and analyzed sentence structure and sentence meaning of law statement for further win-lose predictive modeling and built database and query interface of online scrapped court judgments.
+    detail: I worked at Columbia law school as a Research Assistant. I Parsed and analyzed sentence structure and sentence meaning of law statement for further win-lose predictive modeling and built database and query interface of online scrapped court judgments.
     i18n: 作为研究助理，负责对法律判决书进行分词，语义分析及段落结构分析，建模预测法律案件是否会打赢及建立 No-SQL 数据库对法律文本文件进行管理，建立查询界面方便各类查询.
   date:
     detail: Sep. 2017 to Jan. 2018
