@@ -25,7 +25,7 @@
   i18n: Cat
   url: https://github.com/mxc19912008/Cat-image-recognition-Deep-learning/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb
   img: /static/assets/img/landing/cat.png
-  desc: This project was designed to test if there is a cat in an image with 5 layer Neural Network.
+  desc: This project was designed to test if there is a cat in an image with 5 layer Neural Network. The algorithms were built from scratch.
   
 - name: Telecom company customer churn prediction
   i18n: Telecom
