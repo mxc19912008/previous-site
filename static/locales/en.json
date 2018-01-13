@@ -27,7 +27,7 @@
   "career":{
     "my_career": "My Career",
     "Grapen": "Grapen",
-    "Grapen_desc": "I worked at Columbia law school as a Bigdata Analyst Intern. I Mined and modeled upon data of driver's safety features, evaluated the Dangerous Driving SDK, profiled Cities in China on safety aspects and classified accidents and complaints based on main reasons.",
+    "Grapen_desc": "I worked as a NLP and Machine learning Full stack engineer. Building news summarization and recommendation system.",
     "Grapen_date": "Jan. 2018",
     "Grapen_job": "NLP and Machine learning Full stack engineer intern",
     "law": "Columbia law school",
@@ -35,7 +35,7 @@
     "law_date": "Sep. 2017 to Jan. 2018",
     "law_job": "NLP full stack research assistant",
     "didi": "Didi Chuxing(Chinese Uber)",
-    "didi_desc": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
+    "didi_desc": "I worked in Didi Chuxing as a Bigdata Analyst Intern. I Mined and modeled upon data of driver's safety features, evaluated the Dangerous Driving SDK, profiled Cities in China on safety aspects and classified accidents and complaints based on main reasons.",
     "didi_date": "Jan. 2017 to May. 2017",
     "didi_job": "Bigdata Analyst Intern"
   },
