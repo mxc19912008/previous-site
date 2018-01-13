@@ -48,7 +48,7 @@
 - name: Netease music annual report data analysis
   i18n: Netease
   url: https://github.com/mxc19912008/Netease-music-annual-report
-  img: /static/assets/img/landing/Netease.png
+  img: /static/assets/img/landing/NetEase.png
   desc: This project was created by me and for the purpose of reconstructing database and data analysis of Netease music annual report, pandas intensive！
   
 - name: NBA teams playoffs data analysis
