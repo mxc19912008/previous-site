@@ -20,3 +20,63 @@
   url: http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1
   img: /static/assets/img/landing/imdb.png
   desc: This project was designed to recommend movies to users based on the ratings they gave about ten movies, then find the most similar user in IMDB, return his/her favorite movies.
+
+- name: Cat recognition algorithm(Deep learning)
+  i18n: Cat
+  url: https://github.com/mxc19912008/Cat-image-recognition-Deep-learning/blob/master/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb
+  img: /static/assets/img/landing/cat.png
+  desc: This project was designed to test if there is a cat in an image with 5 layer Neural Network.
+  
+- name: Telecom company customer churn prediction
+  i18n: Telecom
+  url: https://github.com/mxc19912008/Telecom-churn/blob/master/Telecom%20churn%20prediction%20example.ipynb
+  img: /static/assets/img/landing/telecom.png
+  desc: This project is to predict whether a customer will churn or not based on historical data, seven models were used.
+
+- name: Kaggle House price prediction
+  i18n: House
+  url: https://github.com/mxc19912008/Kaggle-House-Price
+  img: /static/assets/img/landing/house.png
+  desc: This project is to predict house price, with a lot of data visualization.
+
+- name: Airline passenger prediction using time series
+  i18n: time
+  url: https://github.com/mxc19912008/Time-series-short-example/blob/master/Time%20series.ipynb
+  img: /static/assets/img/landing/Airline.png
+  desc: This project is for the purpose of predicting passenger number in an airline given the historical data.
+  
+- name: Netease music annual report data analysis
+  i18n: Netease
+  url: https://github.com/mxc19912008/Netease-music-annual-report
+  img: /static/assets/img/landing/Netease.png
+  desc: This project was created by me and for the purpose of reconstructing database and data analysis of Netease music annual report, pandas intensive！
+  
+- name: NBA teams playoffs data analysis
+  i18n: NBA
+  url: https://github.com/mxc19912008/NBA-hackathon
+  img: /static/assets/img/landing/NBA.png
+  desc: This project was a small hackathon for calculating when a team is no longer hopeful for playoffs.
+  
+- name: User profile for Internet of Vehicles
+  i18n: Vehicles
+  url: https://github.com/mxc19912008/Data-analysis-user-portrait-for-Internet-of-Vehicles
+  img: /static/assets/img/landing/Vehicles.png
+  desc: This project was for the purpose of clustering drivers based on their driving habits.
+  
+- name: Amazon review sentiment analysis
+  i18n: Amazon
+  url: https://github.com/mxc19912008/Text-mining/blob/master/Case%2BStudy%2B-%2BSentiment%2BAnalysis.ipynb
+  img: /static/assets/img/landing/Vehicles.png
+  desc: This project was about using word vector and rate labels to predict sentiment.
+  
+- name: Document Similarity & Topic Modelling for News
+  i18n: Topic
+  url: https://github.com/mxc19912008/Text-mining/blob/master/Assignment%2B4.ipynb
+  img: /static/assets/img/landing/News.png
+  desc: This project is to compare document simliarity and based on this use LDA to do topic modeling.
+  
+- name: Spelling Recommender
+  i18n: Spelling
+  url: https://github.com/mxc19912008/Text-mining/blob/master/Assignment%2B2.ipynb
+  img: /static/assets/img/landing/spell.png
+  desc: This project is to use Jaccard distance and Damerau–Levenshtein distance based on 3,4-grams to recommend correct spelling.
