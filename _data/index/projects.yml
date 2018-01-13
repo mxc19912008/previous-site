@@ -66,7 +66,7 @@
 - name: Amazon review sentiment analysis
   i18n: Amazon
   url: https://github.com/mxc19912008/Text-mining/blob/master/Case%2BStudy%2B-%2BSentiment%2BAnalysis.ipynb
-  img: /static/assets/img/landing/Vehicles.png
+  img: /static/assets/img/landing/Amazon.png
   desc: This project was about using word vector and rate labels to predict sentiment.
   
 - name: Document Similarity & Topic Modelling for News
