@@ -19,7 +19,7 @@
   i18n: Movie
   url: http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1
   img: /static/assets/img/landing/imdb.png
-  desc: This project was designed to recommend movies to users based on the ratings they gave about ten movies, then find the most similar user in IMDB, return his/her favorite movies.
+  desc: This project was designed to recommend movies to users based on the ratings they gave about ten movies.
 
 - name: Cat recognition algorithm(Deep learning)
   i18n: Cat
@@ -49,7 +49,7 @@
   i18n: Netease
   url: https://github.com/mxc19912008/Netease-music-annual-report
   img: /static/assets/img/landing/NetEase.png
-  desc: This project was created by me and for the purpose of reconstructing database and data analysis of Netease music annual report, pandas intensive！
+  desc: This project was for the purpose of reconstructing database and data analysis of Netease music annual report, pandas intensive！
   
 - name: NBA teams playoffs data analysis
   i18n: NBA
