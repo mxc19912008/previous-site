@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Machine Learing, Deep Learning, Natural Language Processing, NumPy, Pandas, scikit-learn, nltk, MySQL, MongoDB, Hadoop, Git, Tableau, Python, R, Java, JavaScript, ReactJS, AngularJS
-percentage: 80, 60, 70, 80, 90, 90, 70, 80, 70, 70, 90, 90, 90, 80, 70, 70, 60, 50
+aspects: Machine Learing, Deep Learning, Natural Language Processing, Database, Bigdata, Frontend
+percentage: 80, 70, 90, 85, 85, 80
