@@ -37,7 +37,7 @@
   i18n: House
   url: https://github.com/mxc19912008/Kaggle-House-Price
   img: /static/assets/img/landing/house.png
-  desc: This project is to predict house price, with a lot of data visualization.
+  desc: This project is to predict house price, with a lot of data visualization and several simple models were used.
 
 - name: Airline passenger prediction using time series
   i18n: time
