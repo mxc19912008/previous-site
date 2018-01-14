@@ -61,13 +61,13 @@
   i18n: Vehicles
   url: https://github.com/mxc19912008/Data-analysis-user-portrait-for-Internet-of-Vehicles
   img: /static/assets/img/landing/Vehicles.png
-  desc: This project was for the purpose of clustering drivers based on their driving habits.
+  desc: This project was for the purpose of clustering drivers based on their driving habits, then explain their habits.
   
 - name: Amazon review sentiment analysis
   i18n: Amazon
   url: https://github.com/mxc19912008/Text-mining/blob/master/Case%2BStudy%2B-%2BSentiment%2BAnalysis.ipynb
   img: /static/assets/img/landing/Amazon.png
-  desc: This project was about using word vector and rate labels to predict sentiment.
+  desc: This project was about using word vectors and rate labels to predict sentiment of Amazon Mobil phone review.
   
 - name: Document Similarity & Topic Modelling for News
   i18n: Topic
