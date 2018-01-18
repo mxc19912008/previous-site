@@ -8,10 +8,6 @@ categories: []
 tags: [Spark,Notes]
 icon: icon-html
 ---
-# Learning Spark Chapter 1 Notes
-
-### Date Jan 17, 2018
-## Introduction
 ### 1.  What is spark?
 Apache Spark is an open source **cluster computing system** that makes data analytics fast to write and fast to run. Spark can help to tackle big datasets quickly through simple APIs in Python, Java, and **Scala**. It can help to solve problems ranging from: **interactive queries, streaming, machine learning, and graph processing**.
 ![enter image description here](https://spark.apache.org/images/spark-stack.png)
@@ -21,11 +17,13 @@ Apache Spark is an open source **cluster computing system** that makes data anal
  * Software engineers: Know how to **set up a Spark cluster**, use the Spark shell, and write Spark applications to solve **parallel processing problems.** 
 
 All the code in the book: https://github.com/databricks/learning-spark
+
 ### 3. Spark features overview
  * Spark beats MapReduce not only because it uses in-memory computations but it is more efficient in computing in hard drive too.
  * Spark reduces the management burden of maintaining separate tools.
  * Spark has simple APIs rich libraries.
  * Spark can run in Hadoop clusters and access any Hadoop data source, including Cassandra.
+ 
 ### 4. Spark components
 Reasons for this tight integration: 
  * Top level components benefits from lower level ones; 
