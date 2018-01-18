@@ -4,7 +4,7 @@ title:  "Learning Spark Chapter 1 Notes"
 date:   2018-01-17
 desc: "Reading notes of Learning Spark Chapter 1"
 keywords: "Spark,Hadoop,Chapter 1,Learning Spark,blog,easy"
-categories: [HTML]
+categories: []
 tags: [Spark,Notes]
 icon: icon-html
 ---
