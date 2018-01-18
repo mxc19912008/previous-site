@@ -12,7 +12,7 @@ icon: icon-html
 Apache Spark is an open source **cluster computing system** that makes data analytics fast to write and fast to run. Spark can help to tackle big datasets quickly through simple APIs in Python, Java, and **Scala**. It can help to solve problems ranging from: **interactive queries, streaming, machine learning, and graph processing**.
 <br><br>
 <br><br>
-![enter image description here](https://spark.apache.org/images/spark-stack.png =200x100)
+![enter image description here](https://spark.apache.org/images/spark-stack.png){:height="36px" width="36px"}.
 <br><br>
 ### 2. Who should read the book?
  * Data scientist: Use the same mathematical approaches to solve problems **much faster and on a much larger scale**.
