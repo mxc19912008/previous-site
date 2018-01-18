@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Learn and share.
+title: Learn and share
 description: Will's personal website and blog,use Jekyll and github pages.
-keywords: Will Ma,Xiaochun Ma,blog,Data scientist,Machine learning
+keywords: Riversmall, Will Ma,Xiaochun Ma,blog,Data scientist,Machine learning
 # baseurl:  /home # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://mxc19912008.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
