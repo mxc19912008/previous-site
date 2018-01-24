@@ -27,7 +27,7 @@
   "career":{
     "my_career": "My Career",
     "Graphen": "Graphen",
-    "Graphen_desc": "I am working as a NLP and Machine learning Full stack engineer intern, building news summarization and recommendation system.",
+    "Graphen_desc": "I am working as a NLP and Software engineer intern, building news summarization and recommendation system.",
     "Graphen_date": "Jan. 2018",
     "Graphen_job": "NLP and Machine learning Full stack engineer intern",
     "law": "Columbia law school",
@@ -35,9 +35,9 @@
     "law_date": "Sep. 2017 to Jan. 2018",
     "law_job": "NLP full stack research assistant",
     "didi": "Didi Chuxing(Chinese Uber)",
-    "didi_desc": "I worked in Didi Chuxing as a Bigdata Analyst Intern. I Mined and modeled upon data of driver's safety features, evaluated the Dangerous Driving SDK, profiled Cities in China on safety aspects and classified accidents and complaints based on main reasons.",
+    "didi_desc": "I worked in Didi Chuxing as a Data Scientist Intern. I Mined and modeled upon data of driver's safety features, evaluated the Dangerous Driving SDK, profiled Cities in China on safety aspects and classified accidents and complaints based on main reasons.",
     "didi_date": "Jan. 2017 to May. 2017",
-    "didi_job": "Bigdata Analyst Intern"
+    "didi_job": "Data Scientist"
   },
   "blog":{
     "my_blog": "My Blog"
