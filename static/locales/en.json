@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "A full-stack Machine Learning Engineer and Data Scientist who loves jogging and traveling."
+    "des": "A Data Scientist who loves jogging and traveling."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -26,10 +26,14 @@
   },
   "career":{
     "my_career": "My Career",
+    "GrubHub": "GrubHub",
+    "GrubHub_desc": "I am working as a Data Scientist intern in GrubHub, doing search optimization, recommendation and classification jobs.",
+    "GrubHub_date": "Jun. 2018",
+    "GrubHub_job": "Data Scientist intern",
     "Graphen": "Graphen",
-    "Graphen_desc": "I am working as a NLP and Software engineer intern, building news summarization and recommendation system.",
-    "Graphen_date": "Jan. 2018",
-    "Graphen_job": "NLP and Machine learning Full stack engineer intern",
+    "Graphen_desc": "I worked as a NLP and Software engineer intern, building news summarization and recommendation system.",
+    "Graphen_date": "Jan. 2018 to Apr. 2018",
+    "Graphen_job": "NLP and Software engineer intern",
     "law": "Columbia law school",
     "law_desc": "I worked at Columbia law school as a Research Assistant. I Parsed and analyzed sentence structure and sentence meaning of law statement for further win-lose predictive modeling and built databases and a query interface of online scrapped court judgments.",
     "law_date": "Sep. 2017 to Jan. 2018",
