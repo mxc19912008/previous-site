@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: A full-stack Machine Learning Engineer and Data Scientist who loves jogging and traveling.
+  desc: A Data Scientist who loves jogging and traveling.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
